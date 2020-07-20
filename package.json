@@ -1,0 +1,23 @@
+{
+  "name": "okanban-front-red",
+  "version": "1.0.0",
+  "description": "### Modulariser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Galactica/okanban-front-red.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Galactica/okanban-front-red/issues"
+  },
+  "homepage": "https://github.com/O-clock-Galactica/okanban-front-red#readme",
+  "dependencies": {
+    "sortablejs": "^1.10.2"
+  }
+}
